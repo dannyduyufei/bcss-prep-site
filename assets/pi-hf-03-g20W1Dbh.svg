@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+<title id="t">Temporary power board and leads on a wet floor</title>
+<desc id="d">A temporary distribution board on a wall with its door open. Cables run down into a pool of water on the floor, one cable has a taped joint lying in the water, a multi-way adaptor has several plugs stacked into it and a worker in the water plugs in a tool.</desc>
+<style>text{font-family:sans-serif}</style>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="0" width="800" height="500" fill="#e5e1d8"/>
+<rect x="0" y="420" width="800" height="80" fill="#b2aea3"/>
+<ellipse cx="400" cy="450" rx="300" ry="34" fill="#7fb3d5"/>
+<rect x="120" y="90" width="150" height="190" fill="#95a5a6" stroke="#2d3436" stroke-width="2"/>
+<polygon points="120,90 60,110 60,300 120,280" fill="#bdc3c7" stroke="#2d3436" stroke-width="2"/>
+<rect x="135" y="110" width="20" height="34" fill="#2c3e50"/>
+<rect x="167" y="110" width="20" height="34" fill="#2c3e50"/>
+<rect x="199" y="110" width="20" height="34" fill="#2c3e50"/>
+<rect x="231" y="110" width="20" height="34" fill="#2c3e50"/>
+<rect x="135" y="160" width="20" height="34" fill="#2c3e50"/>
+<rect x="167" y="160" width="20" height="34" fill="#2c3e50"/>
+<rect x="199" y="160" width="20" height="34" fill="#2c3e50"/>
+<rect x="231" y="160" width="20" height="34" fill="#2c3e50"/>
+<rect x="135" y="210" width="20" height="34" fill="#2c3e50"/>
+<rect x="167" y="210" width="20" height="34" fill="#2c3e50"/>
+<rect x="199" y="210" width="20" height="34" fill="#2c3e50"/>
+<rect x="231" y="210" width="20" height="34" fill="#2c3e50"/>
+<rect x="150" y="40" width="90" height="32" fill="#f1c40f" stroke="#2d3436" stroke-width="2"/>
+<text x="195" y="61.4" font-size="15" fill="#2d3436" text-anchor="middle" font-weight="bold">Danger</text>
+<text x="195" y="300" font-size="15" fill="#2d3436" text-anchor="middle" font-weight="bold">DB</text>
+<path d="M160,280 C160,360 260,430 360,450 S560,450 620,440" fill="none" stroke="#222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220,280 C230,380 330,440 450,462" fill="none" stroke="#e67e22" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="386" y="447" width="6" height="12" fill="#111"/>
+<rect x="395" y="449" width="6" height="12" fill="#111"/>
+<rect x="404" y="451" width="6" height="12" fill="#111"/>
+<rect x="610" y="430" width="70" height="16" fill="#ecf0f1" stroke="#2d3436" stroke-width="1.5"/>
+<rect x="615" y="418" width="10" height="14" fill="#34495e"/>
+<rect x="631" y="418" width="10" height="14" fill="#34495e"/>
+<rect x="647" y="418" width="10" height="14" fill="#34495e"/>
+<rect x="663" y="418" width="10" height="14" fill="#34495e"/>
+<rect x="640" y="402" width="10" height="14" fill="#c0392b"/>
+<path d="M645,402 C650,370 700,360 720,330" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="690" y1="399.5" x2="697.2" y2="440" stroke="#34495e" stroke-width="6.8" stroke-linecap="round"/>
+<line x1="697.2" y1="440" x2="691.8" y2="440" stroke="#2d3436" stroke-width="6.1" stroke-linecap="round"/>
+<line x1="690" y1="399.5" x2="682.8" y2="440" stroke="#34495e" stroke-width="6.8" stroke-linecap="round"/>
+<line x1="682.8" y1="440" x2="677.4" y2="440" stroke="#2d3436" stroke-width="6.1" stroke-linecap="round"/>
+<line x1="690" y1="399.5" x2="661.2" y2="384.2" stroke="#5d7fa3" stroke-width="14.2" stroke-linecap="round"/>
+<line x1="686.5" y1="397.7" x2="663.5" y2="385.4" stroke="#f39c12" stroke-width="15.5" stroke-linecap="round"/>
+<circle cx="677" cy="392.6" r="3.7" fill="#ecf0f1"/>
+<line x1="663.5" y1="385.4" x2="654" y2="417.5" stroke="#5d7fa3" stroke-width="5.7" stroke-linecap="round"/>
+<circle cx="654" cy="417.5" r="3.4" fill="#e0b48a"/>
+<line x1="663.5" y1="385.4" x2="648.6" y2="415.7" stroke="#5d7fa3" stroke-width="5.7" stroke-linecap="round"/>
+<circle cx="648.6" cy="415.7" r="3.4" fill="#e0b48a"/>
+<circle cx="652.2" cy="380.6" r="7.7" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M643.4,379.5 A8.4,8 0 0 1 661,379.5 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

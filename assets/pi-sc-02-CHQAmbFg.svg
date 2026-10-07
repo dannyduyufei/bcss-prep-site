@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+<title id="t">Scaffold seen end-on beside a wall</title>
+<desc id="d">End view of a scaffold next to a building wall. A wide gap separates the platforms from the wall, one standard rests on loose bricks and another sits in soft soil, a red tag hangs at the base and a worker climbs the frame towards the top platform where another worker stands.</desc>
+<style>text{font-family:sans-serif}</style>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="440" width="800" height="60" fill="#a47449"/>
+<rect x="80" y="30" width="120" height="410" fill="#e3dccf" stroke="#b8a98e" stroke-width="1.5"/>
+<text x="140" y="60" font-size="13" fill="#2d3436" text-anchor="middle">Wall</text>
+<line x1="320" y1="60" x2="320" y2="410" stroke="#7f8c8d" stroke-width="6" stroke-linecap="round"/>
+<line x1="470" y1="60" x2="470" y2="446" stroke="#7f8c8d" stroke-width="6" stroke-linecap="round"/>
+<rect x="302" y="430" width="36" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<rect x="306" y="420" width="36" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<rect x="302" y="410" width="36" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<ellipse cx="470" cy="446" rx="30" ry="6" fill="#7a5230"/>
+<line x1="320" y1="150" x2="470" y2="150" stroke="#7f8c8d" stroke-width="5" stroke-linecap="round"/>
+<rect x="320" y="142" width="150" height="8" fill="#c69c6d" stroke="#8d6e63" stroke-width="1"/>
+<line x1="320" y1="260" x2="470" y2="260" stroke="#7f8c8d" stroke-width="5" stroke-linecap="round"/>
+<rect x="320" y="252" width="150" height="8" fill="#c69c6d" stroke="#8d6e63" stroke-width="1"/>
+<line x1="320" y1="370" x2="470" y2="370" stroke="#7f8c8d" stroke-width="5" stroke-linecap="round"/>
+<rect x="320" y="362" width="150" height="8" fill="#c69c6d" stroke="#8d6e63" stroke-width="1"/>
+<line x1="320" y1="150" x2="470" y2="100" stroke="#95a5a6" stroke-width="3" stroke-linecap="round"/>
+<line x1="320" y1="260" x2="470" y2="210" stroke="#95a5a6" stroke-width="3" stroke-linecap="round"/>
+<line x1="320" y1="370" x2="470" y2="320" stroke="#95a5a6" stroke-width="3" stroke-linecap="round"/>
+<line x1="470" y1="150" x2="470" y2="100" stroke="#7f8c8d" stroke-width="5" stroke-linecap="round"/>
+<line x1="470" y1="105" x2="482" y2="105" stroke="#f1c40f" stroke-width="4" stroke-linecap="round"/>
+<line x1="200" y1="300" x2="320" y2="300" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+<polygon points="200,300 210,295 210,305" fill="#555"/>
+<polygon points="320,300 310,295 310,305" fill="#555"/>
+<text x="260" y="292" font-size="13" fill="#2d3436" text-anchor="middle" font-weight="bold">600 mm</text>
+<line x1="390" y1="112.3" x2="394.6" y2="142" stroke="#34495e" stroke-width="5" stroke-linecap="round"/>
+<line x1="394.6" y1="142" x2="390.7" y2="142" stroke="#2d3436" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="390" y1="112.3" x2="385.4" y2="142" stroke="#34495e" stroke-width="5" stroke-linecap="round"/>
+<line x1="385.4" y1="142" x2="381.4" y2="142" stroke="#2d3436" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="390" y1="112.3" x2="390" y2="89.2" stroke="#5d7fa3" stroke-width="10.4" stroke-linecap="round"/>
+<line x1="390" y1="109.5" x2="390" y2="91" stroke="#f39c12" stroke-width="11.4" stroke-linecap="round"/>
+<circle cx="390" cy="101.9" r="2.7" fill="#ecf0f1"/>
+<line x1="390" y1="91" x2="398.6" y2="111" stroke="#5d7fa3" stroke-width="4.2" stroke-linecap="round"/>
+<circle cx="398.6" cy="111" r="2.5" fill="#e0b48a"/>
+<line x1="390" y1="91" x2="381.4" y2="111" stroke="#5d7fa3" stroke-width="4.2" stroke-linecap="round"/>
+<circle cx="381.4" cy="111" r="2.5" fill="#e0b48a"/>
+<circle cx="390" cy="81.9" r="5.6" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M383.5,81.1 A6.2,5.9 0 0 1 396.5,81.1 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="476" y1="298.5" x2="474.6" y2="328.6" stroke="#34495e" stroke-width="5.2" stroke-linecap="round"/>
+<line x1="474.6" y1="328.6" x2="470.4" y2="328.6" stroke="#2d3436" stroke-width="4.7" stroke-linecap="round"/>
+<polyline points="476,298.5 463.4,309 470.4,314.6" fill="none" stroke="#34495e" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="470.4" y1="314.6" x2="466.2" y2="314.6" stroke="#2d3436" stroke-width="4.7" stroke-linecap="round"/>
+<line x1="476" y1="298.5" x2="473.2" y2="274" stroke="#5d7fa3" stroke-width="11" stroke-linecap="round"/>
+<line x1="475.7" y1="295.6" x2="473.4" y2="276" stroke="#f39c12" stroke-width="12.1" stroke-linecap="round"/>
+<circle cx="474.7" cy="287.5" r="2.9" fill="#ecf0f1"/>
+<polyline points="473.4,276 467.6,269.8 467.6,261.4" fill="none" stroke="#5d7fa3" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="467.6" cy="261.4" r="2.6" fill="#e0b48a"/>
+<polyline points="473.4,276 466.9,281 467.6,276.8" fill="none" stroke="#5d7fa3" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="467.6" cy="276.8" r="2.6" fill="#e0b48a"/>
+<circle cx="473.9" cy="265.6" r="6" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M467.1,264.7 A6.5,6.2 0 0 1 480.7,264.7 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="474" y1="410" x2="500" y2="424" stroke="#2d3436" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="494" y="418" width="70" height="34" fill="#d63031" stroke="#2d3436" stroke-width="1"/>
+<text x="529" y="440" font-size="10" fill="#fff" text-anchor="middle" font-weight="bold">DO NOT USE</text>
+</svg>

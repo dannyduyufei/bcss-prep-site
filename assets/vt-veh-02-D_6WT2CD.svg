@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Lorry parked on a ramp during unloading</title>
+<desc id="desc">A green flatbed lorry is parked facing uphill on a sloping ramp. The cab door is open and the driver, in a white helmet, is walking away uphill while using a phone. Two yellow wheel chocks lie flat on the ground near the cab instead of against the wheels. Downhill, directly behind the lorry, two workers are unloading and stacking bricks.</desc>
+<rect x="0" y="0" width="800" height="500" rx="0" fill="#dceefa"/>
+<polygon points="0,470 800,330 800,500 0,500" fill="#c8b48c" stroke="#a39171" stroke-width="2" stroke-linejoin="round"/>
+<rect x="445.6" y="445" width="48.8" height="25" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="470" y="462" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a36">Ramp</text>
+<g transform="rotate(-9.93 465 340)"><rect x="300" y="350" width="330" height="14" rx="0" fill="#34495e"/><rect x="300" y="318" width="230" height="32" rx="0" fill="#95a5a6" stroke="#566573" stroke-width="2"/><rect x="310" y="296" width="70" height="22" rx="0" fill="#c0392b" stroke="#7b241c" stroke-width="1.5"/><rect x="530" y="252" width="100" height="104" rx="8" fill="#28b463" stroke="#186a3b" stroke-width="2"/><rect x="566" y="264" width="52" height="42" rx="3" fill="#d4efdf" stroke="#186a3b" stroke-width="1.5"/><polygon points="532,262 500,248 500,330 532,340" fill="#239b56" stroke="#186a3b" stroke-width="1.5" stroke-linejoin="round"/><circle cx="350" cy="384" r="28" fill="#1c2833"/><circle cx="350" cy="384" r="12.6" fill="#aab7b8"/><circle cx="350" cy="384" r="4.2" fill="#566573"/><circle cx="410" cy="384" r="28" fill="#1c2833"/><circle cx="410" cy="384" r="12.6" fill="#aab7b8"/><circle cx="410" cy="384" r="4.2" fill="#566573"/><circle cx="590" cy="384" r="28" fill="#1c2833"/><circle cx="590" cy="384" r="12.6" fill="#aab7b8"/><circle cx="590" cy="384" r="4.2" fill="#566573"/></g>
+<polygon points="660,352 700,352 700,338" fill="#f4d03f" stroke="#9a7d0a" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="708,350 748,350 748,336" fill="#f4d03f" stroke="#9a7d0a" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="760,274 751.2,299.3 741.3,326.8" fill="none" stroke="#34495e" stroke-width="9.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="741.3" cy="326.8" r="5.5" fill="#222"/>
+<polyline points="760,274 769.9,298.2 776.5,326.8" fill="none" stroke="#34495e" stroke-width="9.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="776.5" cy="326.8" r="5.5" fill="#222"/>
+<line x1="761.1" y1="223.4" x2="760" y2="274" stroke="#5dade2" stroke-width="22.0" stroke-linecap="round"/>
+<circle cx="763.3" cy="211.3" r="12.100000000000001" fill="#d6a77c"/>
+<path d="M750.1999999999999,209.10000000000002 A13.100000000000001,13.100000000000001 0 0 1 776.4,209.10000000000002 Z" fill="#ffffff"/>
+<line x1="752.3" y1="209.10000000000002" x2="783.0999999999999" y2="209.10000000000002" stroke="#ffffff" stroke-width="3.3000000000000003" stroke-linecap="round"/>
+<polyline points="761.1,223.4 751.2,245.4 744.6,265.2" fill="none" stroke="#3b4a5a" stroke-width="7.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="744.6" cy="265.2" r="4.4" fill="#d6a77c"/>
+<polyline points="761.1,223.4 773.2,241.0 771.0,225.6" fill="none" stroke="#3b4a5a" stroke-width="7.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="771.0" cy="225.6" r="4.4" fill="#d6a77c"/>
+<polyline points="232,376.8 234.3,404.4 235.4,432.0" fill="none" stroke="#34495e" stroke-width="10.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="235.4" cy="432.0" r="5.75" fill="#222"/>
+<polyline points="232,376.8 227.4,404.4 225.1,432.0" fill="none" stroke="#34495e" stroke-width="10.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="225.1" cy="432.0" r="5.75" fill="#222"/>
+<line x1="197.5" y1="345.8" x2="232" y2="376.8" stroke="#f28c28" stroke-width="23.0" stroke-linecap="round"/>
+<circle cx="186.0" cy="337.7" r="12.649999999999999" fill="#d6a77c"/>
+<path d="M172.35,335.4 A13.649999999999999,13.649999999999999 0 0 1 199.65,335.4 Z" fill="#ffd400"/>
+<line x1="165.3" y1="335.4" x2="197.5" y2="335.4" stroke="#ffd400" stroke-width="3.4499999999999997" stroke-linecap="round"/>
+<polyline points="197.5,345.8 192.9,369.9 188.3,392.9" fill="none" stroke="#3b4a5a" stroke-width="8.049999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="188.3" cy="392.9" r="4.6" fill="#d6a77c"/>
+<polyline points="197.5,345.8 186.0,369.9 179.1,392.9" fill="none" stroke="#3b4a5a" stroke-width="8.049999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="179.1" cy="392.9" r="4.6" fill="#d6a77c"/>
+<polyline points="130,392.8 139.2,419.2 149.6,448.0" fill="none" stroke="#34495e" stroke-width="10.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="149.6" cy="448.0" r="5.75" fill="#222"/>
+<polyline points="130,392.8 119.7,418.1 112.8,448.0" fill="none" stroke="#34495e" stroke-width="10.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="112.8" cy="448.0" r="5.75" fill="#222"/>
+<line x1="128.8" y1="339.9" x2="130" y2="392.8" stroke="#27ae60" stroke-width="23.0" stroke-linecap="round"/>
+<circle cx="127.7" cy="323.8" r="12.649999999999999" fill="#d6a77c"/>
+<path d="M114.05000000000001,321.5 A13.649999999999999,13.649999999999999 0 0 1 141.35,321.5 Z" fill="#ffd400"/>
+<line x1="107.00000000000001" y1="321.5" x2="139.2" y2="321.5" stroke="#ffd400" stroke-width="3.4499999999999997" stroke-linecap="round"/>
+<polyline points="128.8,339.9 113.9,358.3 100.1,351.4" fill="none" stroke="#3b4a5a" stroke-width="8.049999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="100.1" cy="351.4" r="4.6" fill="#d6a77c"/>
+<polyline points="128.8,339.9 111.6,360.6 97.8,356.0" fill="none" stroke="#3b4a5a" stroke-width="8.049999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="97.8" cy="356.0" r="4.6" fill="#d6a77c"/>
+<rect x="48" y="444" width="40" height="20" rx="0" fill="#c0392b" stroke="#7b241c" stroke-width="1.5"/>
+<rect x="58" y="426" width="30" height="18" rx="0" fill="#c0392b" stroke="#7b241c" stroke-width="1.5"/>
+</svg>

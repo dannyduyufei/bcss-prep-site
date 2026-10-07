@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+<title id="t">Cut-away of two floors with a floor opening</title>
+<desc id="d">Cut-away of two floors of a building. On the upper floor a plywood board has slipped into a floor opening and a loaded trolley stands next to it; on the floor below, a worker lies on the ground directly under the opening.</desc>
+<style>text{font-family:sans-serif}</style>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="40" y="60" width="720" height="420" fill="#ece7dd" stroke="#b8a98e" stroke-width="1.5"/>
+<rect x="40" y="230" width="300" height="22" fill="#b3b3b3" stroke="#888" stroke-width="1.5"/>
+<rect x="440" y="230" width="320" height="22" fill="#b3b3b3" stroke="#888" stroke-width="1.5"/>
+<rect x="40" y="460" width="720" height="20" fill="#b3b3b3" stroke="#888" stroke-width="1.5"/>
+<rect x="40" y="40" width="720" height="22" fill="#b3b3b3" stroke="#888" stroke-width="1.5"/>
+<rect x="60" y="90" width="90" height="28" fill="#fff" stroke="#2d3436" stroke-width="2"/>
+<text x="105" y="108.7" font-size="13" fill="#2d3436" text-anchor="middle" font-weight="bold">Level 4</text>
+<rect x="60" y="300" width="90" height="28" fill="#fff" stroke="#2d3436" stroke-width="2"/>
+<text x="105" y="318.7" font-size="13" fill="#2d3436" text-anchor="middle" font-weight="bold">Level 3</text>
+<g transform="rotate(62 350 236)">
+<rect x="340" y="230" width="110" height="8" fill="#d9b77e" stroke="#8d6e63" stroke-width="1.5"/>
+</g>
+<rect x="500" y="170" width="90" height="50" fill="#7f8c8d" stroke="#2d3436" stroke-width="1.5"/>
+<rect x="505" y="160" width="80" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<rect x="505" y="150" width="80" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<rect x="505" y="140" width="80" height="10" fill="#c0392b" stroke="#7b241c" stroke-width="1"/>
+<circle cx="515" cy="224" r="8" fill="#2d3436"/>
+<circle cx="575" cy="224" r="8" fill="#2d3436"/>
+<line x1="590" y1="175" x2="615" y2="150" stroke="#2d3436" stroke-width="4" stroke-linecap="round"/>
+<line x1="412" y1="458" x2="370" y2="462" stroke="#34495e" stroke-width="7.5" stroke-linecap="round"/>
+<line x1="370" y1="462" x2="376" y2="462" stroke="#2d3436" stroke-width="6.8" stroke-linecap="round"/>
+<line x1="412" y1="458" x2="372" y2="456" stroke="#34495e" stroke-width="7.5" stroke-linecap="round"/>
+<line x1="372" y1="456" x2="378" y2="456" stroke="#2d3436" stroke-width="6.8" stroke-linecap="round"/>
+<line x1="412" y1="458" x2="450" y2="456" stroke="#5d7fa3" stroke-width="15.8" stroke-linecap="round"/>
+<line x1="416.6" y1="457.8" x2="447" y2="456.2" stroke="#f39c12" stroke-width="17.2" stroke-linecap="round"/>
+<circle cx="429.1" cy="457.1" r="4.1" fill="#ecf0f1"/>
+<line x1="447" y1="456.2" x2="438" y2="462" stroke="#5d7fa3" stroke-width="6.4" stroke-linecap="round"/>
+<circle cx="438" cy="462" r="3.8" fill="#e0b48a"/>
+<line x1="447" y1="456.2" x2="458" y2="442" stroke="#5d7fa3" stroke-width="6.4" stroke-linecap="round"/>
+<circle cx="458" cy="442" r="3.8" fill="#e0b48a"/>
+<circle cx="462" cy="454" r="8.5" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M452.2,452.7 A9.4,8.9 0 0 1 471.8,452.7 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="660" y1="195.8" x2="672.2" y2="230" stroke="#34495e" stroke-width="5.7" stroke-linecap="round"/>
+<line x1="672.2" y1="230" x2="667.6" y2="230" stroke="#2d3436" stroke-width="5.1" stroke-linecap="round"/>
+<line x1="660" y1="195.8" x2="647.8" y2="230" stroke="#34495e" stroke-width="5.7" stroke-linecap="round"/>
+<line x1="647.8" y1="230" x2="643.3" y2="230" stroke="#2d3436" stroke-width="5.1" stroke-linecap="round"/>
+<line x1="660" y1="195.8" x2="657.7" y2="169.2" stroke="#5d7fa3" stroke-width="12" stroke-linecap="round"/>
+<line x1="659.7" y1="192.6" x2="657.9" y2="171.3" stroke="#f39c12" stroke-width="13.1" stroke-linecap="round"/>
+<circle cx="659" cy="183.8" r="3.1" fill="#ecf0f1"/>
+<line x1="657.9" y1="171.3" x2="671.4" y2="192" stroke="#5d7fa3" stroke-width="4.8" stroke-linecap="round"/>
+<circle cx="671.4" cy="192" r="2.9" fill="#e0b48a"/>
+<line x1="657.9" y1="171.3" x2="647.1" y2="190.5" stroke="#5d7fa3" stroke-width="4.8" stroke-linecap="round"/>
+<circle cx="647.1" cy="190.5" r="2.9" fill="#e0b48a"/>
+<circle cx="656.2" cy="160.8" r="6.5" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M648.8,159.9 A7.1,6.8 0 0 1 663.6,159.9 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="330" y="452" width="70" height="8" fill="#d9b77e" stroke="#8d6e63" stroke-width="1" transform="rotate(-10 365 456)"/>
+</svg>

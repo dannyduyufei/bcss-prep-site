@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Concrete pump truck set up beside an open trench</title>
+<desc id="desc">Side view of a yellow concrete pump truck with its boom raised and reaching over to a building slab on the right, where a worker holds the hose end. The front outrigger is extended onto a timber pad. The rear outrigger is short of full extension and its foot rests on bare, soft, cracked ground right at the edge of an open trench, with no pad under it.</desc>
+<rect x="0" y="0" width="800" height="420" rx="0" fill="#dceefa"/><rect x="0" y="420" width="800" height="80" rx="0" fill="#c8b48c"/>
+<rect x="600" y="160" width="200" height="260" rx="0" fill="#d5d8dc" stroke="#8f959c" stroke-width="2"/>
+<rect x="590" y="150" width="210" height="14" rx="0" fill="#b9bdc3" stroke="#8f959c" stroke-width="1.5"/>
+<rect x="590" y="270" width="210" height="12" rx="0" fill="#b9bdc3" stroke="#8f959c" stroke-width="1.5"/>
+<rect x="40" y="420" width="150" height="80" rx="0" fill="#4d3b28"/>
+<rect x="40" y="420" width="150" height="6" rx="0" fill="#3b2c1e"/>
+<rect x="63.3" y="462" width="103.3" height="24" rx="5" fill="#fdebd0" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="115" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a36">Open trench</text>
+<polygon points="190,420 260,420 260,430 190,434" fill="#7a5a3a"/>
+<path d="M196,426 l10,10 l-4,10 l8,12" fill="none" stroke="#3b2c1e" stroke-width="2"/>
+<path d="M226,424 l-6,12 l8,8" fill="none" stroke="#3b2c1e" stroke-width="2"/>
+<rect x="230" y="330" width="330" height="18" rx="0" fill="#34495e"/>
+<rect x="250" y="290" width="250" height="40" rx="4" fill="#f4d03f" stroke="#9a7d0a" stroke-width="2"/>
+<rect x="470" y="250" width="90" height="92" rx="8" fill="#f4d03f" stroke="#9a7d0a" stroke-width="2"/>
+<rect x="500" y="262" width="50" height="38" rx="3" fill="#d6eaf8" stroke="#9a7d0a" stroke-width="1.5"/>
+<rect x="310.2" y="300" width="119.6" height="24" rx="5" fill="#fef9e7" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="370" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a36">Concrete pump</text>
+<circle cx="300" cy="366" r="26" fill="#1c2833"/><circle cx="300" cy="366" r="11.700000000000001" fill="#aab7b8"/><circle cx="300" cy="366" r="3.9" fill="#566573"/><circle cx="360" cy="366" r="26" fill="#1c2833"/><circle cx="360" cy="366" r="11.700000000000001" fill="#aab7b8"/><circle cx="360" cy="366" r="3.9" fill="#566573"/><circle cx="520" cy="366" r="26" fill="#1c2833"/><circle cx="520" cy="366" r="11.700000000000001" fill="#aab7b8"/><circle cx="520" cy="366" r="3.9" fill="#566573"/>
+<rect x="204" y="334" width="40" height="12" rx="0" fill="#e67e22" stroke="#a04000" stroke-width="1.5"/>
+<rect x="206" y="346" width="12" height="70" rx="0" fill="#e67e22" stroke="#a04000" stroke-width="1.5"/>
+<rect x="200" y="414" width="24" height="6" rx="0" fill="#a04000"/>
+<rect x="560" y="334" width="50" height="12" rx="0" fill="#e67e22" stroke="#a04000" stroke-width="1.5"/>
+<rect x="596" y="346" width="12" height="64" rx="0" fill="#e67e22" stroke="#a04000" stroke-width="1.5"/>
+<rect x="580" y="410" width="46" height="10" rx="0" fill="#c58b4b" stroke="#8a5a2b" stroke-width="1.5"/>
+<rect x="400" y="262" width="40" height="30" rx="0" fill="#d68910" stroke="#9c640c" stroke-width="2"/>
+<line x1="420" y1="266" x2="520" y2="90" stroke="#f39c12" stroke-width="12" stroke-linecap="round"/>
+<line x1="520" y1="90" x2="640" y2="78" stroke="#f39c12" stroke-width="10" stroke-linecap="round"/>
+<line x1="640" y1="78" x2="650" y2="120" stroke="#f39c12" stroke-width="8" stroke-linecap="round"/>
+<line x1="650" y1="120" x2="664" y2="146" stroke="#1c2833" stroke-width="7" stroke-linecap="round"/>
+<polyline points="712,102 717.7,123.8 721.5,147.6" fill="none" stroke="#34495e" stroke-width="8.549999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="721.5" cy="147.6" r="4.75" fill="#222"/>
+<polyline points="712,102 706.3,123.8 702.5,147.6" fill="none" stroke="#34495e" stroke-width="8.549999999999999" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="702.5" cy="147.6" r="4.75" fill="#222"/>
+<line x1="710.1" y1="58.3" x2="712" y2="102" stroke="#f28c28" stroke-width="19.0" stroke-linecap="round"/>
+<circle cx="708.2" cy="45.0" r="10.45" fill="#d6a77c"/>
+<path d="M696.75,43.1 A11.45,11.45 0 0 1 719.6500000000001,43.1 Z" fill="#ffd400"/>
+<line x1="691.1" y1="43.1" x2="717.7000000000002" y2="43.1" stroke="#ffd400" stroke-width="2.8499999999999996" stroke-linecap="round"/>
+<polyline points="710.1,58.3 694.9,73.5 683.5,81.1" fill="none" stroke="#3b4a5a" stroke-width="6.6499999999999995" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="683.5" cy="81.1" r="3.8" fill="#d6a77c"/>
+<polyline points="710.1,58.3 696.8,79.2 685.4,88.7" fill="none" stroke="#3b4a5a" stroke-width="6.6499999999999995" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="685.4" cy="88.7" r="3.8" fill="#d6a77c"/>
+</svg>

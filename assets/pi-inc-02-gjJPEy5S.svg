@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+<title id="t">Collapsed bay of slab formwork after a crane landed a load</title>
+<desc id="d">One bay of slab formwork has sagged into a V shape. Props underneath are bent, a bundle of steel bars lies on the sagging deck, an empty crane hook hangs above, and a worker sits on the floor below holding his leg next to fallen timber.</desc>
+<style>text{font-family:sans-serif}</style>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="0" width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="440" width="800" height="60" fill="#b3b3b3"/>
+<rect x="0" y="140" width="800" height="14" fill="none"/>
+<rect x="20" y="150" width="230" height="14" fill="#d9b77e" stroke="#8d6e63" stroke-width="1"/>
+<rect x="560" y="150" width="220" height="14" fill="#d9b77e" stroke="#8d6e63" stroke-width="1"/>
+<polygon points="250,150 405,250 560,150 560,164 405,266 250,164" fill="#d9b77e" stroke="#8d6e63" stroke-width="1"/>
+<line x1="60" y1="440" x2="60" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="60" y1="301" x2="60" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="51" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="50" y="437" width="20" height="4" fill="#2d3436"/>
+<line x1="140" y1="440" x2="140" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="140" y1="301" x2="140" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="131" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="130" y="437" width="20" height="4" fill="#2d3436"/>
+<line x1="220" y1="440" x2="220" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="220" y1="301" x2="220" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="211" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="210" y="437" width="20" height="4" fill="#2d3436"/>
+<line x1="600" y1="440" x2="600" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="600" y1="301" x2="600" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="591" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="590" y="437" width="20" height="4" fill="#2d3436"/>
+<line x1="680" y1="440" x2="680" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="680" y1="301" x2="680" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="671" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="670" y="437" width="20" height="4" fill="#2d3436"/>
+<line x1="760" y1="440" x2="760" y2="166" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="760" y1="301" x2="760" y2="305" stroke="#2d3436" stroke-width="7" stroke-linecap="round"/>
+<rect x="751" y="162" width="18" height="4" fill="#2d3436"/>
+<rect x="750" y="437" width="20" height="4" fill="#2d3436"/>
+<polyline points="300,440 310,340 290,260 300,200" fill="none" stroke="#e67e22" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="400,440 380,360 410,300 405,268" fill="none" stroke="#e67e22" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="500,440 520,350 495,260 515,200" fill="none" stroke="#e67e22" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="330" y1="440" x2="470" y2="420" stroke="#e67e22" stroke-width="5" stroke-linecap="round"/>
+<line x1="330" y1="225" x2="470" y2="235" stroke="#8e5a3c" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="229" x2="470" y2="239" stroke="#8e5a3c" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="233" x2="470" y2="243" stroke="#8e5a3c" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="237" x2="470" y2="247" stroke="#8e5a3c" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="241" x2="470" y2="251" stroke="#8e5a3c" stroke-width="4" stroke-linecap="round"/>
+<line x1="405" y1="0" x2="405" y2="60" stroke="#2d3436" stroke-width="3" stroke-linecap="round"/>
+<path d="M397,60 h16 v10 q0,14 -10,14 q-8,0 -8,-8" fill="#f1c40f" stroke="#2d3436" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="405" y1="84" x2="385" y2="120" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+<line x1="405" y1="84" x2="425" y2="120" stroke="#555" stroke-width="2" stroke-linecap="round"/>
+<rect x="620" y="60" width="100" height="30" fill="#fff" stroke="#2d3436" stroke-width="2"/>
+<text x="670" y="79.7" font-size="13" fill="#2d3436" text-anchor="middle" font-weight="bold">Level 2</text>
+<polyline points="560,421.5 541.5,421.5 541.5,440" fill="none" stroke="#34495e" stroke-width="6.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="541.5" y1="440" x2="536.5" y2="440" stroke="#2d3436" stroke-width="5.7" stroke-linecap="round"/>
+<polyline points="560,421.5 536.5,423.2 534.8,440" fill="none" stroke="#34495e" stroke-width="6.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="534.8" y1="440" x2="529.8" y2="440" stroke="#2d3436" stroke-width="5.7" stroke-linecap="round"/>
+<line x1="560" y1="421.5" x2="553.3" y2="393.8" stroke="#5d7fa3" stroke-width="13.2" stroke-linecap="round"/>
+<line x1="559.2" y1="418.2" x2="553.8" y2="396" stroke="#f39c12" stroke-width="14.5" stroke-linecap="round"/>
+<circle cx="557" cy="409" r="3.5" fill="#ecf0f1"/>
+<line x1="553.8" y1="396" x2="544.9" y2="389.6" stroke="#5d7fa3" stroke-width="5.4" stroke-linecap="round"/>
+<circle cx="544.9" cy="389.6" r="3.1" fill="#e0b48a"/>
+<line x1="553.8" y1="396" x2="543.2" y2="414.8" stroke="#5d7fa3" stroke-width="5.4" stroke-linecap="round"/>
+<circle cx="543.2" cy="414.8" r="3.1" fill="#e0b48a"/>
+<circle cx="549.9" cy="384.6" r="7.1" fill="#e0b48a" stroke="#b07a50" stroke-width="1"/>
+<path d="M541.7,383.5 A7.9,7.5 0 0 1 558.1,383.5 Z" fill="#f1c40f" stroke="#9a7d0a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="440" y="430" width="70" height="9" fill="#c69c6d" stroke="#8d6e63" stroke-width="1" transform="rotate(-12 475 434)"/>
+</svg>
