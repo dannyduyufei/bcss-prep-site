@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Decanting liquid in a paint store</title>
+<desc id="desc">A worker in a paint store pours liquid from a red jerrycan into a clear plastic drink bottle. A blue drum marked Thinner, with a flame pictogram, stands on the left. A shelf on the right holds several plain plastic bottles of coloured liquid; none of the bottles carries any marking.</desc>
+<rect x="0" y="0" width="800" height="400" rx="0" fill="#eef0e6"/>
+<rect x="0" y="400" width="800" height="100" rx="0" fill="#a6acaf"/>
+<rect x="480" y="150" width="270" height="10" rx="0" fill="#7b5a3a"/>
+<rect x="480" y="260" width="270" height="10" rx="0" fill="#7b5a3a"/>
+<rect x="486" y="160" width="8" height="240" rx="0" fill="#7b5a3a"/>
+<rect x="736" y="160" width="8" height="240" rx="0" fill="#7b5a3a"/>
+<rect x="510" y="104" width="28" height="46" rx="6" fill="#f9e79f" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="519" y="94" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="560" y="104" width="28" height="46" rx="6" fill="#d6eaf8" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="569" y="94" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="610" y="104" width="28" height="46" rx="6" fill="#fadbd8" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="619" y="94" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="660" y="104" width="28" height="46" rx="6" fill="#d5f5e3" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="669" y="94" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="705" y="104" width="28" height="46" rx="6" fill="#f9e79f" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="714" y="94" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="510" y="214" width="28" height="46" rx="6" fill="#f9e79f" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="519" y="204" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="560" y="214" width="28" height="46" rx="6" fill="#d6eaf8" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="569" y="204" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="610" y="214" width="28" height="46" rx="6" fill="#fadbd8" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="619" y="204" width="10" height="12" rx="2" fill="#566573"/>
+<rect x="120" y="270" width="110" height="140" rx="6" fill="#1f618d" stroke="#154360" stroke-width="2"/>
+<line x1="120" y1="300" x2="230" y2="300" stroke="#154360" stroke-width="3" stroke-linecap="round"/>
+<line x1="120" y1="380" x2="230" y2="380" stroke="#154360" stroke-width="3" stroke-linecap="round"/>
+<polygon points="175,312 203,340 175,368 147,340" fill="#ffffff" stroke="#c0392b" stroke-width="4"/>
+<path d="M175,356 c-10,-4 -10,-14 -2,-22 c0,6 6,8 6,2 c6,6 8,16 -4,20 z" fill="#1f2a36"/>
+<rect x="139.6" y="246" width="70.8" height="24" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="175" y="262" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a36">Thinner</text>
+<polyline points="320,338 313.5,367.9 310.9,400.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="310.9" cy="400.4" r="6.5" fill="#222"/>
+<polyline points="320,338 326.5,367.9 329.1,400.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329.1" cy="400.4" r="6.5" fill="#222"/>
+<line x1="322.6" y1="278.2" x2="320" y2="338" stroke="#f28c28" stroke-width="26.0" stroke-linecap="round"/>
+<circle cx="321.3" cy="308.1" r="3.9000000000000004" fill="#e8f0f0"/>
+<circle cx="325.2" cy="260.0" r="14.3" fill="#d6a77c"/>
+<path d="M309.9,257.4 A15.3,15.3 0 0 1 340.5,257.4 Z" fill="#ffd400"/>
+<line x1="312.2" y1="257.4" x2="348.59999999999997" y2="257.4" stroke="#ffd400" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<polyline points="322.6,278.2 343.4,293.8 359.0,283.4" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="359.0" cy="283.4" r="5.2" fill="#d6a77c"/>
+<polyline points="322.6,278.2 340.8,309.4 359.0,319.8" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="359.0" cy="319.8" r="5.2" fill="#d6a77c"/>
+<rect x="352" y="274" width="38" height="28" rx="3" fill="#c0392b" stroke="#7b241c" stroke-width="1.5" transform="rotate(30 371 288)"/>
+<line x1="384" y1="302" x2="396" y2="318" stroke="#7b241c" stroke-width="3" stroke-linecap="round"/>
+<line x1="396" y1="320" x2="394" y2="344" stroke="#a3c4bc" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="384" y="352" width="20" height="48" rx="5" fill="#d6eaf8" stroke="#7f8c8d" stroke-width="1.5"/>
+<rect x="390" y="344" width="8" height="8" rx="1" fill="#3498db"/>
+<rect x="542.0" y="42" width="116.1" height="26" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="600" y="60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a36">Paint store</text>
+</svg>

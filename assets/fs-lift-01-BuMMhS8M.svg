@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="t d">
+<title id="t">Lorry crane lifting — scene</title>
+<desc id="d">A lorry crane with outriggers set lifts a bundle of long steel bars toward a Level 2 slab. The bundle hangs from one sling near one end and is tilted, some bars are sliding out, and two workers walk on the ground beneath the load.</desc>
+<style>text{font-family:sans-serif;font-size:15px;fill:#222}.lb{font-weight:bold}.sm{font-size:12px}</style>
+<rect width="800" height="500" fill="#e6f1fa"/>
+<rect x="0" y="400" width="800" height="100" fill="#c9a77a" stroke="none" stroke-width="1" />
+<rect x="640" y="220" width="160" height="14" fill="#9a9a9a" stroke="none" stroke-width="1" />
+<rect x="660" y="234" width="14" height="166" fill="#9a9a9a" stroke="none" stroke-width="1" />
+<rect x="770" y="234" width="14" height="166" fill="#9a9a9a" stroke="none" stroke-width="1" />
+<text x="720" y="212" text-anchor="middle" class="lb" >Level 2</text>
+<rect x="40" y="320" width="260" height="50" fill="#2e6fb5" stroke="#1b3f66" stroke-width="2" />
+<rect x="40" y="270" width="70" height="50" fill="#2e6fb5" stroke="#1b3f66" stroke-width="2" />
+<rect x="50" y="280" width="45" height="26" fill="#a9c4d8" stroke="none" stroke-width="1" />
+<circle cx="80" cy="372" r="20" fill="#333"/><circle cx="80" cy="372" r="8" fill="#888"/>
+<circle cx="210" cy="372" r="20" fill="#333"/><circle cx="210" cy="372" r="8" fill="#888"/>
+<circle cx="260" cy="372" r="20" fill="#333"/><circle cx="260" cy="372" r="8" fill="#888"/>
+<line x1="120" y1="360" x2="120" y2="396" stroke="#333" stroke-width="6" stroke-linecap="round" />
+<rect x="102" y="396" width="36" height="6" fill="#8b6a3e" stroke="none" stroke-width="1" />
+<line x1="290" y1="360" x2="290" y2="396" stroke="#333" stroke-width="6" stroke-linecap="round" />
+<rect x="272" y="396" width="36" height="6" fill="#8b6a3e" stroke="none" stroke-width="1" />
+<rect x="230" y="280" width="24" height="40" fill="#e0a800" stroke="#7a5c00" stroke-width="2" />
+<line x1="242" y1="284" x2="520" y2="70" stroke="#e0a800" stroke-width="12" stroke-linecap="round" />
+<line x1="520" y1="70" x2="520" y2="230" stroke="#222" stroke-width="2" stroke-linecap="round" />
+<path d="M520,230 q0,14 -10,12" fill="none" stroke="#222" stroke-width="4"/>
+<line x1="520" y1="238" x2="470" y2="262" stroke="#c62828" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="255" x2="640" y2="345" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="259" x2="640" y2="349" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="263" x2="640" y2="353" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="267" x2="640" y2="357" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="271" x2="640" y2="361" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="455" y1="275" x2="640" y2="365" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="560" y1="330" x2="700" y2="410" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="600" y1="365" x2="690" y2="430" stroke="#6b3b16" stroke-width="3" stroke-linecap="round" />
+<line x1="698" y1="380" x2="712" y2="372" stroke="#666" stroke-width="2" stroke-linecap="round" />
+<line x1="705" y1="395" x2="720" y2="388" stroke="#666" stroke-width="2" stroke-linecap="round" />
+<rect x="462" y="252" width="6" height="22" fill="#c62828" stroke="none" stroke-width="1" transform="rotate(-25 465 263)"/>
+<line x1="600" y1="440" x2="590" y2="466" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="600" y1="440" x2="612" y2="466" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="600.0" y1="414.08" x2="600" y2="440" stroke="#3d5a80" stroke-width="7.0" stroke-linecap="round" />
+<line x1="600.0" y1="417.96799999999996" x2="600.0" y2="434.816" stroke="#f07c1a" stroke-width="8.0" stroke-linecap="round" />
+<line x1="600.0" y1="414.08" x2="620" y2="424" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<line x1="600.0" y1="414.08" x2="585" y2="428" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<circle cx="600" cy="404" r="9.0" fill="#e2c49c" stroke="#7a5a3a" stroke-width="1"/>
+<path d="M589.0,403 A10.0,10.0 0 0 1 611.0,403 Z" fill="#f2c200" stroke="#8a6d00" stroke-width="1"/>
+<line x1="662" y1="444" x2="652" y2="470" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="662" y1="444" x2="672" y2="470" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="660.56" y1="419.52" x2="662" y2="444" stroke="#3d5a80" stroke-width="7.0" stroke-linecap="round" />
+<line x1="660.776" y1="423.192" x2="661.712" y2="439.104" stroke="#f07c1a" stroke-width="8.0" stroke-linecap="round" />
+<line x1="660.56" y1="419.52" x2="678" y2="426" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<line x1="660.56" y1="419.52" x2="646" y2="430" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<circle cx="660" cy="410" r="9.0" fill="#e2c49c" stroke="#7a5a3a" stroke-width="1"/>
+<path d="M649.0,409 A10.0,10.0 0 0 1 671.0,409 Z" fill="#f2c200" stroke="#8a6d00" stroke-width="1"/>
+<line x1="190" y1="326" x2="182" y2="352" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="190" y1="326" x2="200" y2="352" stroke="#3d5a80" stroke-width="5.0" stroke-linecap="round" />
+<line x1="190.0" y1="300.08" x2="190" y2="326" stroke="#3d5a80" stroke-width="7.0" stroke-linecap="round" />
+<line x1="190.0" y1="303.96799999999996" x2="190.0" y2="320.816" stroke="#f07c1a" stroke-width="8.0" stroke-linecap="round" />
+<line x1="190.0" y1="300.08" x2="210" y2="306" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<line x1="190.0" y1="300.08" x2="176" y2="312" stroke="#3d5a80" stroke-width="4.0" stroke-linecap="round" />
+<circle cx="190" cy="290" r="9.0" fill="#e2c49c" stroke="#7a5a3a" stroke-width="1"/>
+<path d="M179.0,289 A10.0,10.0 0 0 1 201.0,289 Z" fill="#f2c200" stroke="#8a6d00" stroke-width="1"/>
+</svg>

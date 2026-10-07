@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Crane lifting a bundle of steel bars</title>
+<desc id="desc">A crawler crane lifts a bundle of long steel bars on a two-leg sling; one bar is sliding out at an angle from the bundle. A worker looking at a mobile phone stands on the ground directly below the hook and bundle. A signalman with a raised arm stands to the right.</desc>
+<rect x="0" y="0" width="800" height="450" rx="0" fill="#dcefFa"/><rect x="0" y="450" width="800" height="50" rx="0" fill="#c8b48c"/>
+<rect x="50" y="420" width="170" height="30" rx="12" fill="#2c3e50"/>
+<circle cx="66" cy="435" r="8" fill="#566573"/>
+<circle cx="90" cy="435" r="8" fill="#566573"/>
+<circle cx="114" cy="435" r="8" fill="#566573"/>
+<circle cx="138" cy="435" r="8" fill="#566573"/>
+<circle cx="162" cy="435" r="8" fill="#566573"/>
+<circle cx="186" cy="435" r="8" fill="#566573"/>
+<rect x="70" y="350" width="140" height="70" rx="4" fill="#f1c40f" stroke="#b7950b" stroke-width="2"/>
+<rect x="160" y="320" width="44" height="36" rx="3" fill="#f7dc6f" stroke="#b7950b" stroke-width="2"/>
+<rect x="166" y="326" width="30" height="20" rx="0" fill="#aed6f1"/>
+<line x1="150" y1="360" x2="560" y2="70" stroke="#d4ac0d" stroke-width="6" stroke-linecap="round"/>
+<line x1="172" y1="372" x2="572" y2="84" stroke="#d4ac0d" stroke-width="6" stroke-linecap="round"/>
+<line x1="150.0" y1="360.0" x2="205.3" y2="348.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="184.2" y1="335.8" x2="238.7" y2="324.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="218.3" y1="311.7" x2="272.0" y2="300.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="252.5" y1="287.5" x2="305.3" y2="276.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="286.7" y1="263.3" x2="338.7" y2="252.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="320.8" y1="239.2" x2="372.0" y2="228.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="355.0" y1="215.0" x2="405.3" y2="204.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="389.2" y1="190.8" x2="438.7" y2="180.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="423.3" y1="166.7" x2="472.0" y2="156.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="457.5" y1="142.5" x2="505.3" y2="132.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="491.7" y1="118.3" x2="538.7" y2="108.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="525.8" y1="94.2" x2="572.0" y2="84.0" stroke="#d4ac0d" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="566" y1="78" x2="566" y2="214" stroke="#2c3e50" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M560,214 h12 v10 a8,8 0 1 1 -8,8" fill="none" stroke="#2c3e50" stroke-width="4"/>
+<line x1="566" y1="232" x2="500" y2="262" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
+<line x1="566" y1="232" x2="632" y2="262" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
+<line x1="470" y1="262" x2="662" y2="262" stroke="#873600" stroke-width="4" stroke-linecap="round"/>
+<line x1="470" y1="266" x2="662" y2="266" stroke="#6e2c00" stroke-width="4" stroke-linecap="round"/>
+<line x1="470" y1="270" x2="662" y2="270" stroke="#873600" stroke-width="4" stroke-linecap="round"/>
+<line x1="470" y1="274" x2="662" y2="274" stroke="#6e2c00" stroke-width="4" stroke-linecap="round"/>
+<line x1="470" y1="278" x2="662" y2="278" stroke="#873600" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="270" x2="690" y2="300" stroke="#873600" stroke-width="4" stroke-linecap="round"/>
+<polyline points="566,388 559.5,417.9 556.9,450.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="556.9" cy="450.4" r="6.5" fill="#222"/>
+<polyline points="566,388 572.5,417.9 575.1,450.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="575.1" cy="450.4" r="6.5" fill="#222"/>
+<line x1="566.0" y1="328.2" x2="566" y2="388" stroke="#f28c28" stroke-width="26.0" stroke-linecap="round"/>
+<circle cx="566.0" cy="358.1" r="3.9000000000000004" fill="#e8f0f0"/>
+<circle cx="567.3" cy="311.3" r="14.3" fill="#d6a77c"/>
+<path d="M552.0,308.7 A15.3,15.3 0 0 1 582.5999999999999,308.7 Z" fill="#ffd400"/>
+<line x1="554.3000000000001" y1="308.7" x2="590.6999999999999" y2="308.7" stroke="#ffd400" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<polyline points="566.0,328.2 555.6,354.2 551.7,380.2" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="551.7" cy="380.2" r="5.2" fill="#d6a77c"/>
+<polyline points="566.0,328.2 579.0,351.6 573.8,336.0" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="573.8" cy="336.0" r="5.2" fill="#d6a77c"/>
+<rect x="570" y="324" width="9" height="15" rx="1" fill="#2c3e50"/>
+<polyline points="735,388 741.5,417.9 744.1,450.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="744.1" cy="450.4" r="6.5" fill="#222"/>
+<polyline points="735,388 728.5,417.9 725.9,450.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="725.9" cy="450.4" r="6.5" fill="#222"/>
+<line x1="735.0" y1="328.2" x2="735" y2="388" stroke="#e74c3c" stroke-width="26.0" stroke-linecap="round"/>
+<circle cx="735.0" cy="358.1" r="3.9000000000000004" fill="#e8f0f0"/>
+<circle cx="735.0" cy="310.0" r="14.3" fill="#d6a77c"/>
+<path d="M719.7,307.4 A15.3,15.3 0 0 1 750.3,307.4 Z" fill="#ffd400"/>
+<line x1="711.6" y1="307.4" x2="747.9999999999999" y2="307.4" stroke="#ffd400" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<polyline points="735.0,328.2 746.7,354.2 749.3,380.2" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="749.3" cy="380.2" r="5.2" fill="#d6a77c"/>
+<polyline points="735.0,328.2 714.2,312.6 706.4,286.6" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="706.4" cy="286.6" r="5.2" fill="#d6a77c"/>
+<rect x="456.9" y="12" width="218.2" height="26" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="566" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a36">Crane lift in progress</text>
+</svg>

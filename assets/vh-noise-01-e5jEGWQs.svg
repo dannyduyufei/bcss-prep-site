@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Breaking concrete with a pneumatic breaker</title>
+<desc id="desc">A worker breaks a concrete slab with a pneumatic breaker connected by a hose to a compressor; curved lines show sound coming from the tool. He has nothing over his ears. A colleague nearby wears red ear muffs. A blue sign on a post reads Hearing protection must be worn.</desc>
+<rect x="0" y="0" width="800" height="440" rx="0" fill="#dcefFa"/><rect x="0" y="440" width="800" height="60" rx="0" fill="#a6acaf"/>
+<rect x="140" y="420" width="360" height="20" rx="0" fill="#b9bdc3" stroke="#8f959c" stroke-width="1.5"/>
+<polyline points="250,420 262,432 256,440" fill="none" stroke="#566573" stroke-width="2"/>
+<polyline points="250,358 244.8,387.9 239.6,420.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="239.6" cy="420.4" r="6.5" fill="#222"/>
+<polyline points="250,358 260.4,387.9 263.0,420.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="263.0" cy="420.4" r="6.5" fill="#222"/>
+<line x1="255.2" y1="300.8" x2="250" y2="358" stroke="#f28c28" stroke-width="26.0" stroke-linecap="round"/>
+<circle cx="252.6" cy="329.4" r="3.9000000000000004" fill="#e8f0f0"/>
+<circle cx="257.8" cy="282.6" r="14.3" fill="#d6a77c"/>
+<path d="M242.5,280.0 A15.3,15.3 0 0 1 273.1,280.0 Z" fill="#ffd400"/>
+<line x1="244.79999999999998" y1="280.0" x2="281.2" y2="280.0" stroke="#ffd400" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<polyline points="255.2,300.8 270.8,326.8 278.6,347.6" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="278.6" cy="347.6" r="5.2" fill="#d6a77c"/>
+<polyline points="255.2,300.8 278.6,324.2 289.0,347.6" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="289.0" cy="347.6" r="5.2" fill="#d6a77c"/>
+<rect x="272" y="342" width="32" height="14" rx="3" fill="#2c3e50"/>
+<rect x="283" y="356" width="11" height="64" rx="0" fill="#566573"/>
+<path d="M330,310 a30,30 0 0 1 0,60" fill="none" stroke="#c0392b" stroke-width="3" opacity="0.7"/>
+<path d="M350,290 a50,50 0 0 1 0,100" fill="none" stroke="#c0392b" stroke-width="3" opacity="0.7"/>
+<path d="M370,270 a70,70 0 0 1 0,140" fill="none" stroke="#c0392b" stroke-width="3" opacity="0.7"/>
+<rect x="560" y="360" width="120" height="80" rx="6" fill="#f1c40f" stroke="#b7950b" stroke-width="2"/>
+<rect x="574" y="374" width="40" height="20" rx="0" fill="#7f8c8d"/>
+<path d="M560,420 C480,450 340,450 290,390" fill="none" stroke="#1c2833" stroke-width="5"/>
+<polyline points="480,378 473.5,407.9 470.9,440.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="470.9" cy="440.4" r="6.5" fill="#222"/>
+<polyline points="480,378 486.5,407.9 489.1,440.4" fill="none" stroke="#34495e" stroke-width="11.700000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="489.1" cy="440.4" r="6.5" fill="#222"/>
+<line x1="480.0" y1="318.2" x2="480" y2="378" stroke="#27ae60" stroke-width="26.0" stroke-linecap="round"/>
+<circle cx="480.0" cy="348.1" r="3.9000000000000004" fill="#e8f0f0"/>
+<circle cx="480.0" cy="300.0" r="14.3" fill="#d6a77c"/>
+<path d="M464.7,297.4 A15.3,15.3 0 0 1 495.3,297.4 Z" fill="#ffd400"/>
+<line x1="467.0" y1="297.4" x2="503.4" y2="297.4" stroke="#ffd400" stroke-width="3.9000000000000004" stroke-linecap="round"/>
+<path d="M463.09999999999997,300.0 C465.7,261.0 494.3,261.0 496.90000000000003,300.0" fill="none" stroke="#922b21" stroke-width="3.9000000000000004"/>
+<ellipse cx="463.09999999999997" cy="301.3" rx="6.5" ry="9.1" fill="#c0392b" stroke="#922b21" stroke-width="1.5"/>
+<ellipse cx="496.90000000000003" cy="301.3" rx="6.5" ry="9.1" fill="#c0392b" stroke="#922b21" stroke-width="1.5"/>
+<polyline points="480.0,318.2 468.3,344.2 465.7,370.2" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="465.7" cy="370.2" r="5.2" fill="#d6a77c"/>
+<polyline points="480.0,318.2 491.7,344.2 494.3,370.2" fill="none" stroke="#3b4a5a" stroke-width="9.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="494.3" cy="370.2" r="5.2" fill="#d6a77c"/>
+<line x1="90" y1="440" x2="90" y2="300" stroke="#566573" stroke-width="5" stroke-linecap="round"/>
+<rect x="20" y="230" width="160" height="74" rx="4" fill="#1f618d" stroke="#1f2a36" stroke-width="2"/>
+<text x="100" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">Hearing protection</text>
+<text x="100" y="282" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#ffffff">must be worn</text>
+<rect x="409.5" y="42" width="181.0" height="26" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="500" y="60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a36">Slab hacking works</text>
+</svg>

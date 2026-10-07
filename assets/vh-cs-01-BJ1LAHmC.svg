@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Worker climbing into a manhole</title>
+<desc id="desc">Cut-away view of a road and the ground below it. A manhole shaft goes down into darkness. A worker is already climbing down the rungs inside the shaft, with his head just below road level. The heavy cover lies on the road beside the opening and a tool bag sits nearby. Nobody else is at the opening.</desc>
+<rect x="0" y="0" width="800" height="260" rx="0" fill="#dcefFa"/>
+<rect x="0" y="260" width="800" height="30" rx="0" fill="#6e7276"/>
+<rect x="0" y="290" width="800" height="210" rx="0" fill="#a98559"/>
+<rect x="0" y="340" width="800" height="4" rx="0" fill="#9c7a50"/>
+<rect x="0" y="410" width="800" height="4" rx="0" fill="#8f6f48"/>
+<defs><linearGradient id="shaft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5d6d7e"/><stop offset="1" stop-color="#111417"/></linearGradient></defs>
+<rect x="350" y="260" width="100" height="230" rx="0" fill="url(#shaft)"/>
+<rect x="340" y="260" width="10" height="230" rx="0" fill="#909497"/>
+<rect x="450" y="260" width="10" height="230" rx="0" fill="#909497"/>
+<line x1="356" y1="290" x2="384" y2="290" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="318" x2="384" y2="318" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="346" x2="384" y2="346" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="374" x2="384" y2="374" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="402" x2="384" y2="402" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="430" x2="384" y2="430" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<line x1="356" y1="458" x2="384" y2="458" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+<polyline points="378,344 371.3,370.9 371.3,397.8" fill="none" stroke="#34495e" stroke-width="10.080000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="371.3" cy="397.8" r="5.6000000000000005" fill="#222"/>
+<polyline points="378,344 387.0,357.4 387.0,384.3" fill="none" stroke="#34495e" stroke-width="10.080000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="387.0" cy="384.3" r="5.6000000000000005" fill="#222"/>
+<line x1="378.0" y1="292.5" x2="378" y2="344" stroke="#f28c28" stroke-width="22.400000000000002" stroke-linecap="round"/>
+<circle cx="378.0" cy="318.2" r="3.3600000000000003" fill="#e8f0f0"/>
+<circle cx="378.0" cy="276.8" r="12.32" fill="#d6a77c"/>
+<path d="M364.68,274.56 A13.32,13.32 0 0 1 391.32,274.56 Z" fill="#ffd400"/>
+<line x1="366.8" y1="274.56" x2="398.16" y2="274.56" stroke="#ffd400" stroke-width="3.3600000000000003" stroke-linecap="round"/>
+<polyline points="378.0,292.5 362.3,274.6 360.1,256.6" fill="none" stroke="#3b4a5a" stroke-width="7.840000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="360.1" cy="256.6" r="4.48" fill="#d6a77c"/>
+<polyline points="378.0,292.5 393.7,274.6 395.9,256.6" fill="none" stroke="#3b4a5a" stroke-width="7.840000000000001" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="395.9" cy="256.6" r="4.48" fill="#d6a77c"/>
+<ellipse cx="560" cy="262" rx="56" ry="10" fill="#34495e"/>
+<rect x="504" y="252" width="112" height="10" rx="4" fill="#2c3e50"/>
+<rect x="230" y="240" width="50" height="22" rx="5" fill="#1a5276"/>
+<line x1="400" y1="214" x2="400" y2="250" stroke="#1f2a36" stroke-width="2" stroke-linecap="round"/>
+<rect x="360.5" y="188" width="79.0" height="26" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="400" y="206" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a36">Manhole</text>
+<rect x="50.9" y="42" width="218.2" height="26" rx="5" fill="#ffffff" stroke="#1f2a36" stroke-width="1.2" opacity="0.95"/><text x="160" y="60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a36">Sewer connection works</text>
+</svg>
